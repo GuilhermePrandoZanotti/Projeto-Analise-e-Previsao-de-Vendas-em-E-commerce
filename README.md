@@ -11,3 +11,4 @@ Este projeto tem como objetivo realizar uma análise completa dos dados de venda
   
  07/05/2025 - Dia 2
  - Verificação de valores faltantes
+ - Verificação de tipos
