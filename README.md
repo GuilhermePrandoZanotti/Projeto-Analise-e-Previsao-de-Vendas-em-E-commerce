@@ -12,3 +12,6 @@ Este projeto tem como objetivo realizar uma análise completa dos dados de venda
  07/05/2025 - Dia 2
  - Verificação de valores faltantes
  - Verificação de tipos
+ - Foi verificado que mesmo as tabelas Reviews e Orders tendo valores nulos, não havia necessidade de retiralos e nem de renomealos
+ - Tabela Produtos teve seus valores nulos retirados, pois não havia nenhuma informação em tais colunas
+ - 
