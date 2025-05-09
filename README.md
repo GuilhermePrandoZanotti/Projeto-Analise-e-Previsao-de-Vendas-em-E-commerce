@@ -5,7 +5,7 @@ Este projeto tem como objetivo realizar uma análise completa dos dados de venda
 - Planejamento do projeto
 - Análise de requisitos
 - Criação do repositório GitHub
-- Criação do projeto e inteligação com GitHub
+- Criação do projeto e interligação com GitHub
 - Importação dos dados do projeto
 - Definição de variaveis
   
