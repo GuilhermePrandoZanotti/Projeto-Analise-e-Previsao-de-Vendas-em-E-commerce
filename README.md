@@ -15,3 +15,8 @@ Este projeto tem como objetivo realizar uma análise completa dos dados de venda
  - Foi verificado que mesmo as tabelas Reviews e Orders tendo valores nulos, não havia necessidade de retiralos e nem de renomealos
  - Tabela Produtos teve seus valores nulos retirados, pois não havia nenhuma informação em tais colunas
  - Criação da pasta Notebooks, e do arquivo "01-EDA"
+
+12/05/2025 - Dia 3
+ - Verificação de valores duplicados
+ - Remoção de valores duplicados
+ - Remoção de Outliers
