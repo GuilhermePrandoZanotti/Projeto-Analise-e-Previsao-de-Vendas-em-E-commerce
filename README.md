@@ -24,10 +24,14 @@ Kaggle, Notion, Anaconda Navigator, Jupyter Notebook, Chat GPT, Medium
  - Remoção de valores duplicados
  - Remoção de Outliers
    
-13/05/2025 Dia 4
+13/05/2025 - Dia 4
  - Após analisar o grafico de Top 10 Produtos e Reviews relacionados a tempo de entrega, pode se concluir, que artigos de beleza, decoração e eletrônicos são os mais vendidos do e-commerce,
    também concluimos que, o tempo de entrega influencia diretamente nos reviews da loja
  - Criação de um grafico para ver o valor médio do pedido
  - Após analisar o grafico dee valor médio de pedido, indentifiquei que os estados listados no grafico, apresentam um valor de tiquet médio bom
  - Criação de um grafico para visulização de vendas por periodo
  - Foi notado uma grande queda de vendas em 09/2018 - 10/2018, podendo significar uma possivel falta de dados, ou interrupção nas operaçoes da empresa
+
+14/05/2025 - Dia 5
+ - Organização de pastas
+ - 
