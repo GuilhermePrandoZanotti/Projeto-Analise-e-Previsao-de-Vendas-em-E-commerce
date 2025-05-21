@@ -34,4 +34,6 @@ Kaggle, Notion, Anaconda Navigator, Jupyter Notebook, Chat GPT, Medium
 
 14/05/2025 - Dia 5
  - Organização de pastas
- - 
+
+20/05/2025 - Dia 6
+ - Criação de gráficos e consulta de calculos de correlação de vendas e notas de avaliação, pagamentos e notas de avaliação
