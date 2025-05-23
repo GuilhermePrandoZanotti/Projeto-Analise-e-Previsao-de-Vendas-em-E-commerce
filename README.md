@@ -41,3 +41,4 @@ Kaggle, Notion, Anaconda Navigator, Jupyter Notebook, Chat GPT, Medium
 
 23/05/2025 - Dia 7
  - Concluida a modelagem preditiva: Separação de treino/teste, Treinamento do modelo de regressão, Avaliação de performance.
+ - Criação dos documentos e formatação do projeto
