@@ -37,3 +37,7 @@ Kaggle, Notion, Anaconda Navigator, Jupyter Notebook, Chat GPT, Medium
 
 20/05/2025 - Dia 6
  - Criação de gráficos e consulta de calculos de correlação de vendas e notas de avaliação, pagamentos e notas de avaliação
+ - Após o teste de hipotese pode se observar que a correlação de pagamento e reviews é significativa, sendo que conforme o preço do produto sobe as notas vão diminuindo, diferente da relação de pagamentos e itens, que dizem que produtos mais caros tendem a receber pagamentos mais altos, tendo assim uma forte correlação entre os dois
+
+23/05/2025 - Dia 7
+ - Concluida a modelagem preditiva: Separação de treino/teste, Treinamento do modelo de regressão, Avaliação de performance.
